@@ -1,4 +1,4 @@
-<h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+<h1> Hola! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Ahmad+Waseem+Piracha;Software+Engineer;Frontend+Developer;Mobile+Developer;%40ahmadpiracha">
 </p>
@@ -7,113 +7,37 @@
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 Actualmente estoy aprendiendo **Desarrollo Frontend**.
 
-- 👨‍💻 Explore my projects at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
+- 👨‍💻 Actualmente estoy aprendiendo **Desarrollo Frontend**. [profolio](urlporfolio)
 
-- 💬 Ask me about **React,React Native, Next.js, Node.js**
+- 💬 Pregúntame sobre **Responsive Design, Tailwind, JavaScript, React, Next.js, Node.js, Git, HTML5, CSS3**
 
-- 📫 Reach me at **ahmadpiracha3@gmail.com**
+- 📫 Ponte en contacto conmigo en **calderonwilliam25@gmail.com**
 
-- 📄 Learn more about my experiences at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
+- 📄 Más información sobre mis experiencias en [porfolio](Profilio)
 
 
-### Connect with me 🔗 :
+### Conecta conmigo🔗 :
 <br>
 <p align='center'>
-<a href="mailto:ahmadpiracha3@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/ahmadpiracha" target="_blank">
-<img src="https://img.shields.io/badge/ahmadpiracha-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ahmad-waseem-piracha" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+<a href="calderonwilliam25@gmail.com" target="_blank">
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fenbapps/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/william-calder%C3%B3n-0bb545221/) 
 </p>
 <br>
 
-## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
+## Habilidades <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
-<!-- Programming Languages -->
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</a>
-<a href="https://www.python.org/" target="_blank">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</a>
-
-<a href="https://www.cplusplus.com/" target="_blank">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</a>
-
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-</a>
-
-<!-- Web Development -->
-
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-</a>
-<a href="https://expressjs.com/" target="_blank">
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-</a>
-
-<a href="https://reactjs.org/" target="_blank">
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-</a>
-<a href="https://nodejs.org/" target="_blank">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-</a>
-
-<!-- Mobile Development -->
-<a href="https://reactnative.dev/" target="_blank">
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-</a>
-<a href="https://expo.dev/" target="_blank">
-  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
-</a>
-
-<!-- Frontend Frameworks/Libraries -->
-<a href="https://tailwindcss.com/" target="_blank">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</a>
-
-<a href="https://material-ui.com/" target="_blank">
-  <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-</a>
-
-<a href="https://getbootstrap.com/" target="_blank">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</a>
-
-<!-- Database -->
-<a href="https://www.mysql.com/" target="_blank">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</a>
-
-<!-- Version Control and Collaboration -->
-<a href="https://github.com/" target="_blank">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</a>
-
-<!-- Design Tools -->
-<a href="https://www.figma.com/" target="_blank">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</a>
-
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 <!-- Tools and Platforms -->
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 
 
-## Github Contribution Streak 🔥 
+## Contribución a Github 🔥 
 <br>
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadpiracha&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
@@ -136,7 +60,3 @@
 <hr>
 <br>
 
-------
-Credit: [Ahmad Piracha](https://github.com/ahmadpiracha)
-
-Last Edited on: 01/01/2024
