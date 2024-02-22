@@ -7,8 +7,6 @@
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 <br />
 
-- 🌱 Actualmente estoy aprendiendo **Desarrollo Frontend**.
-
 - 👨‍💻 Actualmente estoy aprendiendo **Desarrollo Frontend**. [profolio](https://porfoliowilliamcl.netlify.app/)
 
 - 💬 Pregúntame sobre **Responsive Design, Tailwind, JavaScript, React, Next.js, Node.js, Git, HTML5, CSS3**
