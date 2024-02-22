@@ -9,13 +9,13 @@
 
 - 🌱 Actualmente estoy aprendiendo **Desarrollo Frontend**.
 
-- 👨‍💻 Actualmente estoy aprendiendo **Desarrollo Frontend**. [profolio](urlporfolio)
+- 👨‍💻 Actualmente estoy aprendiendo **Desarrollo Frontend**. [profolio](https://porfoliowilliamcl.netlify.app/)
 
 - 💬 Pregúntame sobre **Responsive Design, Tailwind, JavaScript, React, Next.js, Node.js, Git, HTML5, CSS3**
 
 - 📫 Ponte en contacto conmigo en **calderonwilliam25@gmail.com**
 
-- 📄 Más información sobre mis experiencias en [porfolio](Profilio)
+- 📄 Más información sobre mis experiencias en [porfolio](https://porfoliowilliamcl.netlify.app/)
 
 ## 🌐Redes Sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fenbapps/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/william-calder%C3%B3n-0bb545221/) 
